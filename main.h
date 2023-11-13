@@ -11,7 +11,7 @@
 
 /**
  * struct format - matches the conversion specifier of printf
- * @id: type character pointers of the specifier i.e (l, h) for (d, i, u, o, x, X)
+ * @id: type character pointers i.e (l, h) for (d, i, u, o, x, X)
  * @f: type pointers to function for the conversion specifier
  *
  */
